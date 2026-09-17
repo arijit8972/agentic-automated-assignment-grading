@@ -33,7 +33,7 @@ export EVAL_PROVIDER="azure"            # or "gemini"
 
 # Azure Foundry (if using azure)
 export AZURE_OPENAI_API_KEY="your-key"
-export AZURE_OPENAI_ENDPOINT="https://ita-ai-internal.openai.azure.com/"
+export AZURE_OPENAI_ENDPOINT="azure foundry url"
 export AZURE_OPENAI_DEPLOYMENT="gpt-4.1"
 ```
 
