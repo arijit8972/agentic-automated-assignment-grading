@@ -1,0 +1,27 @@
+# Automated Assignment Grading — dependencies
+# (OCR module deps added first; other modules append their own.)
+
+# --- Core ---
+pydantic>=2.6,<3
+PyYAML>=6.0
+
+# --- OCR: preprocessing ---
+pillow>=10.0
+pypdfium2>=4.30        # PDF -> image rendering (no system Poppler needed)
+
+# --- OCR: layout + text recognition -----------------------------------------
+# Page images are sent to a cloud vision model (Gemini or Azure) in one request
+# per page. No local inference backend is needed.
+
+# --- OCR: optional Gemini engine (fast one-call-per-page OCR + diagram boxes) --
+# Only needed when OCR_ENGINE=gemini. Uses the unified google-genai SDK and an
+# AI Studio API key (GEMINI_API_KEY). The local Surya path above is unaffected.
+google-genai>=1.0
+
+# --- Evaluation: Azure OpenAI (text + vision grading) -----------------------
+# Used by AzureLLMClient and AzureVisionClient. The same deployment handles
+# both text completions and multimodal (image) calls (GPT-4o / GPT-4.1).
+openai>=1.0
+
+# --- Report: PDF generation -------------------------------------------------
+fpdf2>=2.8

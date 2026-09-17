@@ -1,0 +1,89 @@
+questions:
+  - id: 1
+    criteria: |
+      Newton's second law: The rate of change of momentum of a body is directly
+      proportional to the applied force and takes place in the direction of the force.
+      OR: Force equals mass times acceleration.
+      Formula: F = ma (or F = dp/dt).
+      Award 2 marks for correct statement, 1 mark for formula.
+    max_score: 3
+
+  - id: 2
+    criteria: |
+      Correct application of F = ma.
+      F = 5 kg × 3 m/s² = 15 N.
+      Award 1 mark for formula, 1 mark for substitution, 1 mark for correct answer with unit.
+    max_score: 3
+
+  - id: 3
+    criteria: |
+      Free-body diagram of a block on a rough horizontal surface pushed by force F.
+      Expected visual features:
+      - Rectangular block clearly drawn
+      - Weight (mg or W) arrow pointing downward from center
+      - Normal force (N or R) arrow pointing upward from center
+      - Applied force (F) arrow pointing horizontally (direction of push)
+      - Friction force (f) arrow pointing opposite to F (opposing motion)
+      - Arrows roughly to scale or labeled with correct symbols
+      Award: 1 mark per correct force arrow (max 4), 1 mark for neat labeled diagram.
+    max_score: 5
+
+  - id: 4
+    criteria: |
+      Kinetic energy: The energy possessed by a body by virtue of its motion.
+      SI unit: joule (J) or kg·m²/s².
+      Award 1 mark for definition, 1 mark for SI unit.
+    max_score: 2
+
+  - id: 5
+    criteria: |
+      Uniform acceleration table with a = 2 m/s², starting from rest (u = 0).
+      Using v = u + at and s = ut + ½at²:
+      t=0: v=0, s=0
+      t=1: v=2, s=1
+      t=2: v=4, s=4
+      t=3: v=6, s=9
+      Award 1 mark per correct row (4 rows = 4 marks), 1 mark if formula shown.
+    max_score: 5
+
+  - id: 6
+    criteria: |
+      Pressure = Force / Area.
+      P = 100 N / 5 m² = 20 Pa (or N/m²).
+      Award 1 mark for formula, 1 mark for substitution, 1 mark for correct answer with unit.
+    max_score: 3
+
+  - id: 7
+    criteria: |
+      Ohm's law: V = IR, therefore I = V/R.
+      I = 12 V / 3 Ω = 4 A.
+      Award 1 mark for correct formula, 1 mark for substitution, 1 mark for correct answer with unit.
+      NOTE: If student writes I = V × R = 36 A, this is INCORRECT (formula inverted). Award only 1 mark for attempt.
+    max_score: 3
+
+  - id: 8
+    criteria: |
+      Inertia: The tendency of a body to resist any change in its state of rest
+      or uniform motion in a straight line.
+      Example: Any valid everyday example demonstrating inertia, e.g.:
+      - Passengers lurch forward when a bus brakes suddenly
+      - A coin on cardboard falls into a glass when cardboard is flicked
+      - Dust falls off a carpet when beaten
+      Award 2 marks for correct definition, 2 marks for valid example with explanation.
+    max_score: 4
+
+  - id: 9
+    criteria: |
+      Momentum formula: p = mv.
+      Calculation: p = 3 kg × 4 m/s = 12 kg·m/s.
+      Award 1 mark for formula, 1 mark for substitution, 1 mark for correct answer with unit.
+    max_score: 3
+
+  - id: 10
+    criteria: |
+      Law of conservation of energy: Energy can neither be created nor destroyed;
+      it can only be transformed from one form to another. The total energy of an
+      isolated system remains constant.
+      Award 2 marks for correct complete statement, 2 marks for mentioning
+      transformation and total energy conservation.
+    max_score: 4

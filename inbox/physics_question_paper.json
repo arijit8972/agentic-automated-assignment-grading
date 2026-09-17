@@ -1,0 +1,129 @@
+{
+  "source_path": "inbox/physics_question_paper.pdf",
+  "page_count": 2,
+  "questions": [
+    {
+      "q_id": -1,
+      "page_num": 0,
+      "question_text": "",
+      "question_type": "text",
+      "answer_text": "Springfield High School Physics (Grade 10) — Homework Assignment\nName: _________ Class: _________ Section: _________ Time: 40 min\nRoll No: _________ Date: _________ Max Marks: 40\nInstructions: • All questions are compulsory. • Draw diagrams neatly with a pencil. • Show all steps in numerical problems.",
+      "has_diagram": false,
+      "image_crop": null,
+      "labels": [],
+      "confidence": null
+    },
+    {
+      "q_id": 1,
+      "page_num": 0,
+      "question_text": "Q1. State Newton's second law of motion and write its formula.",
+      "question_type": "text",
+      "answer_text": "It states that force equals rate of change of momentum. Formula: F = m x a",
+      "has_diagram": false,
+      "image_crop": null,
+      "labels": [],
+      "confidence": null
+    },
+    {
+      "q_id": 2,
+      "page_num": 0,
+      "question_text": "Q2. A body of mass 5 kg accelerates at 3 m/s^2. Find the force.",
+      "question_type": "text",
+      "answer_text": "F = m x a = 5 x 3 = 15 N",
+      "has_diagram": false,
+      "image_crop": null,
+      "labels": [],
+      "confidence": null
+    },
+    {
+      "q_id": 3,
+      "page_num": 0,
+      "question_text": "Q3. Draw a free-body diagram of a block resting on a rough horizontal surface being pushed by force F.",
+      "question_type": "text",
+      "answer_text": "",
+      "has_diagram": true,
+      "image_crop": "iVBORw0KGgoAAAANSUhEUgAAAaMAAAB7CAIAAABW7XhVAABOO0lEQVR4nO19eXxM1/v/uXf2mUy2ySqJ7BKJEFtKRGPfVUttra6oUi268CmtrUWppZuPoqhSauin1E6RItSekEQiIfs+zr7zL2/P97fOb+RoKpait73H3lNZu6cec72nGc7z8PwPE/sYLVarVarVCq1Wq1Go5HneYVCwXEcwzCEELwQi8XkHwir1YrOWiwWkUjEMAz+/nW/aDabeZ7nOI7neZlMZrVaRSIRy7J/vmWO4ywWC8/zIpGI53me5yUSyYP1BU2xLMuyrNVqJYQwDMMwDMdxIpHIYrFYrVaZTPZQyH5swfM8wzB0sgghVquVZVmxWGyxWAghYrGY5/n7GQSMJ1rjeR6TLpFIOI7DIBNCDAYDGuR5XiwWm0wmmUz2YNPH8zwopK8ZhsFioz9HCPlL17nVakXv8MJqtSqVSp7nzWazSCQiNr4BerD7iG2Z/XVUNQBjz+nACxiGwfSAoAbA9PwT1z3mng4u1sQd+/hQgBUvFosxo1j0D+uQwKzRvvA8bzKZJBLJg82L2WwmhOCEQwv2g8PzvNFopB81SYDBge/QN3Hq4wgxmUxisfh3RwC8BicE5p02aLVasdsxd3q9XiwWP/D5RIFTCj/Hsixdz+gRDkLyV3I69Au8DDQQ24rCsqdUgSNjcAghEonkLyLpjriN02GeWJY1Go0Mw6SkpJSVlYETi8ViqVTq4uLi5+fn6OhIbMfg30nrn0d+fn5WVpbBYFCr1ZGRkSqV6q8T6zCY+Hv69Gl3d/fWrVuTh7HmMPIVFRWpqanu7u4hISF0kT1A49gSOJOLi4vT0tKCgoKaN2/O8/zFixfFYnF4eLhMJpNKpX+S7McZ2Hs8zxcWFubm5ur1ekdHx1atWimVSovFIpFITCaTXC6/n6aw53Hw5OfnJyUltW/f3svLi2VZjuMIISKRyGQyEULAAlJSUiorK9u1a6dWqx+AcvpzIpGoqqrq9OnTkZGRAQEB4HEcx/0NGhj4LMSjkydPymSy6OhoMHEM7JkzZ1iW7dixI8MwlMH9dULGncHfDoPBYDabOY7T6XTDhg2zf1IikYSHhw8fPnznzp06nQ7jyHGc2Ww2m83Y1Waz2WQymUwmo9EIoQYfWSwWuqPwPoBjE59aLBaTyUQbwaf0sG1AJH4Xz+AvyDaZTPgW6MHPmUwmjuPS0tKeeuophUJBCAkKCjp//jxtxGg04i/9rslkMpvNRqPRYDCAW0Esx1/0S6vV2veCs4H2F9prfn6+u7v72LFj8SsGgwGDYz+AtHGO4wwGA34CowFBGzCbzXq9Hs+fOXMmNDT03Xff1ev1BoMBP4rn8UVKCd6xH0n0jg6a1WrVarU8z//0008BAQGLFy9GB+Pj4+Pj4wsKCuzJs59W0EZnkxJpNBrpA/ghtEBHGPOLj/AMnXT7eaevKdAsXVT4LkYMrVEa8It0aiiFaATrpMH4/Prrr126dMFqj4+Pz8rKslqter0eD2DQOI5DL+zXHkiiQ4EneZ7fu3evTCb7/vvvMa1ohFKFpTVu3LiWLVump6fbLzAMEdYJ/gKYX/or+IsXPM+fP39eIpF8+OGHdKzQLzpT+Dpoo/sO1NJJxDDSYaHfpV/U6/X0Wxh8TDcQHx/fpUuXoqIivV4P85dOp4uJiWnXrl1OTg56TTkGHX9QYt/3BsRgTikbaQD0EX8xO/Zf/D+O34DxwUJHCIGFwtPTc/LkyS1atNDpdOXl5VeuXNm9e/eRI0fee++9SZMmOTs743TCt6AeWiwWqVSKCZBKpfZShtFohDZnMBhUKhWxafgQswH0nEq8/O1mRMqdzWazvTaBd3CqWGxmOHQVZwjDMIcPH05ISJgyZUrHjh1FIpGvry+UCzwP4CvoEf05e1HcbDbjhUwmo6clXYXU2oVegzyc5GhZKpWKRCKQytgA9RCCM8uyMpkMP2oymegDer1eIpFIJBKxWIxjHIOGCUazOJ8UCgUOAzQIzYJKbZgCyBfoC55RKpWEEIwAntRqta6urpQeqp7gd9FxLEeqImE/MAyD0aMyBV2deB9zRy1Z+NRel+FttidqhaTmHtp9TArLsiaTCWuJzgKlFh2hC4wQgjWJiQPbwhxJJBKLxfLzzz+np6cvWbIkODhYrVZrNBreprjQpdVgbYBzwQwHsxRGCZsIuqrBYMA4UxowFHR5YMHjIzxJB4Se2XR80E3Y/ohNGTSZTAqFgs44pDyz2QzzH34XLYBCerD7iG2Z/XVUNQBjz+nACxiGwfSAoAbA9PwT1z3mng4u1sQd+/hQgBUvFosxo1j0D+uQwKzRvvA8bzKZJBLJg82L2WwmhOCEQwv2g8PzvNFopB81SYDBge/QN3Hq4wgxmUxisfh3RwC8BicE5p02aLVasdsxd3q9XiwWP/D5RIFTCj/Hsixdz+gRDkLyV3I69Au8DDQQ24rCsqdUgSNjcAghEonkLyLpjriN02GeWJY1Go0Mw6SkpJSVlYETi8ViqVTq4uLi5+fn6OhIbMfg30nrn0d+fn5WVpbBYFCr1ZGRkSqV6q8T6zCY+Hv69Gl3d/fWrVuTh7HmMPIVFRWpqanu7u4hISF0kT1A49gSOJOLi4vT0tKCgoKaN2/O8/zFixfFYnF4eLhMJpNKpX+S7McZ2Hs8zxcWFubm5ur1ekdHx1atWimVSovFIpFITCaTXC6/n6aw53Hw5OfnJyUltW/f3svLi2VZjuMIISKRyGQyEULAAlJSUiorK9u1a6dWqx+AcvpzIpGoqqrq9OnTkZGRAQEB4HEcx/0NGhj4LMSjkydPymSy6OhoMHEM7JkzZ1iW7dixI8MwlMH9dULGncHfDoPBYDabOY7T6XTDhg2zf1IikYSHhw8fPnznzp06nQ7jyHGc2Ww2m83Y1Waz2WQymUwmo9EIoQYfWSwWuqPwPoBjE59aLBaTyUQbwaf0sG1AJH4Xz+AvyDaZTPgW6MHPmUwmjuPS0tKeeuophUJBCAkKCjp//jxtxGg04i/9rslkMpvNRqPRYDCAW0Esx1/0S6vV2veCs4H2F9prfn6+u7v72LFj8SsGgwGDYz+AtHGO4wwGA34CowFBGzCbzXq9Hs+fOXMmNDT03Xff1ev1BoMBP4rn8UVKCd6xH0n0jg6a1WrVarU8z//0008BAQGLFy9GB+Pj4+Pj4wsKCuzJs59W0EZnkxJpNBrpA/ghtEBHGPOLj/AMnXT7eaevKdAsXVT4LkYMrVEa8It0aiiFaATrpMH4/Prrr126dMFqj4+Pz8rKslqter0eD2DQOI5DL+zXHkiiQ4EneZ7fu3evTCb7/vvvMa1ohFKFpTVu3LiWLVump6fbLzAMEdYJ/gKYX/or+IsXPM+fP39eIpF8+OGHdKzQLzpT+Dpoo/sO1NJJxDDSYaHfpV/U6/X0Wxh8TDcQHx/fpUuXoqIivV4P85dOp4uJiWnXrl1OTg56TTkGHX9QYt/3BsRgTikbaQD0EX8xO/Zf/D+O34DxwUJHCIGFwtPTc/LkyS1atNDpdOXl5VeuXNm9e/eRI0fee++9SZMmOTs743TCt6AeWiwWqVSKCZBKpfZShtFohDZnMBhUKhWxafgQswH0nEq8/O1mRMqdzWazvTaBd3CqWGxmOHQVZwjDMIcPH05ISJgyZUrHjh1FIpGvry+UCzwP4CvoEf05e1HcbDbjhUwmo6clXYXU2oVegzyc5GhZKpWKRCKQytgA9RCCM8uyMpkMP2oymegDer1eIpFIJBKxWIxjHIOGCUazOJ8UCgUOAzQIzYJKbZgCyBfoC55RKpWEEIwAntRqta6urpQeqp7gd9FxLEeqImE/MAyD0aMyBV2deB9zRy1Z+NRel+FttidqhaTmHtp9TArLsiaTCWuJzgKlFh2hC4wQgjWJiQPbwhxJJBKLxfLzzz+np6cvWbIkODhYrVZrNBreprjQpdVgbYBzwQwHsxRGCZsIuqrBYMA4UxowFHR5YMHjIzxJB4Se2XR80E3Y/ohNGTSZTAqFgs44pDyz2QzzH34XLYBCerD7iG2Z/XVUNQBjz+nACxiGwfSAoAbA9PwT1z3mng4u1sQd+/hQgBUvFosxo1j0D+uQwKzRvvA8bzKZJBLJg82L2WwmhOCEQwv2g8PzvNFopB81SYDBge/QN3Hq4wgxmUxisfh3RwC8BicE5p02aLVasdsxd3q9XiwWP/D5RIFTCj/Hsixdz+gRDkLyV3I69Au8DDQQ24rCsqdUgSNjcAghEonkLyLpjriN02GeWJY1Go0Mw6SkpJSVlYETi8ViqVTq4uLi5+fn6OhIbMfg30nrn0d+fn5WVpbBYFCr1ZGRkSqV6q8T6zCY+Hv69Gl3d/fWrVuTh7HmMPIVFRWpqanu7u4hISF0kT1A49gSOJOLi4vT0tKCgoKaN2/O8/zFixfFYnF4eLhMJpNKpX+S7McZ2Hs8zxcWFubm5ur1ekdHx1atWimVSovFIpFITCaTXC6/n6aw53Hw5OfnJyUltW/f3svLi2VZjuMIISKRyGQyEULAAlJSUiorK9u1a6dWqx+AcvpzIpGoqqrq9OnTkZGRAQEB4HEcx/0NGhj4LMSjkydPymSy6OhoMHEM7JkzZ1iW7dixI8MwlMH9dULGncHfDoPBYDabOY7T6XTDhg2zf1IikYSHhw8fPnznzp06nQ7jyHGc2Ww2m83Y1Waz2WQymUwmo9EIoQYfWSwWuqPwPoBjE59aLBaTyUQbwaf0sG1AJH4Xz+AvyDaZTPgW6MHPmUwmjuPS0tKeeuophUJBCAkKCjp//jxtxGg04i/9rslkMpvNRqPRYDCAW0Esx1/0S6vV2veCs4H2F9prfn6+u7v72LFj8SsGgwGDYz+AtHGO4wwGA34CowFBGzCbzXq9Hs+fOXMmNDT03Xff1ev1BoMBP4rn8UVKCd6xH0n0jg6a1WrVarU8z//0008BAQGLFy9GB+Pj4+Pj4wsKCuzJs59W0EZnkxJpNBrpA/ghtEBHGPOLj/AMnXT7eaevKdAsXVT4LkYMrVEa8It0aiiFaATrpMH4/Prrr126dMFqj4+Pz8rKslqter0eD2DQOI5DL+zXHkiiQ4EneZ7fu3evTCb7/vvvMa1ohFKFpTVu3LiWLVump6fbLzAMEdYJ/gKYX/or+IsXPM+fP39eIpF8+OGHdKzQLzpT+Dpoo/sO1NJJxDDSYaHfpV/U6/X0Wxh8TDcQHx/fpUuXoqIivV4P85dOp4uJiWnXrl1OTg56TTkGHX9QYt/3BsRgTikbaQD0EX8xO/Zf/D+O34DxwUJHCIGFwtPTc/LkyS1atNDpdOXl5VeuXNm9e/eRI0fee++9SZMmOTs743TCt6AeWiwWqVSKCZBKpfZShtFohDZnMBhUKhWxafgQswH0nEq8/O1mRMqdzWazvTaBd3CqWGxmOHQVZwjDMIcPH05ISJgyZUrHjh1FIpGvry+UCzwP4CvoEf05e1HcbDbjhUwmo6clXYXU2oVegzyc5GhZKpWKRCKQytgA9RCCM8uyMpkMP2oymegDer1eIpFIJBKxWIxjHIOGCUazOJ8UCgUOAzQIzYJKbZgCyBfoC55RKpWEEIwAntRqta6urpQeqp7gd9FxLEeqImE/MAyD0aMyBV2deB9zRy1Z+NRel+FttidqhaTmHtp9TArLsiaTCWuJzgKlFh2hC4wQgjWJiQPbwhxJJBKLxfLzzz+np6cvWbIkODhYrVZrNBreprjQpdVgbYBzwQwHsxRGCZsIuqrBYMA4UxowFHR5YMHjIzxJB4Se2XR80E3Y/ohNGTSZTAqFgs44pDyz2QzzH34XLYBCerD7iG2Z/XVUNQBjz+nACxiGwfSAoAbA9PwT1z3mng4u1sQd+/hQgBUvFosxo1j0D+uQwKzRvvA8bzKZJBLJg82L2WwmhOCEQwv2g8PzvNFopB81SYDBge/QN3Hq4wgxmUxisfh3RwC8BicE5p02aLVasdsxd3q9XiwWP/D5RIFTCj/Hsixdz+gRDkLyV3I69Au8DDQQ24rCsqdUgSNjcAghEonkLyLpjriN02GeWJY1Go0Mw6SkpJSVlYETi8ViqVTq4uLi5+fn6OhIbMfg30nrn0d+fn5WVpbBYFCr1ZGRkSqV6q8T6zCY+Hv69Gl3d/fWrVuTh7HmMPIVFRWpqanu7u4hISF0kT1A49gSOJOLi4vT0tKCgoKaN2/O8/zFixfFYnF4eLhMJpNKpX+S7McZ2Hs8zxcWFubm5ur1ekdHx1atWimVSovFIpFITCaTXC6/n6aw53Hw5OfnJyUltW/f3svLi2VZjuMIISKRyGQyEULAAlJSUiorK9u1a6dWqx+AcvpzIpGoqqrq9OnTkZGRAQEB4HEcx/0NGhj4LMSjkydPymSy6OhoMHEM7JkzZ1iW7dixI8MwlMH9dULGncHfDoPBYDabOY7T6XTDhg2zf1IikYSHhw8fPnznzp06nQ7jyHGc2Ww2m83Y1Waz2WQymUwmo9EIoQYfWSwWuqPwPoBjE59aLBaTyUQbwaf0sG1AJH4Xz+AvyDaZTPgW6MHPmUwmjuPS0tKeeuophUJBCAkKCjp//jxtxGg04i/9rslkMpvNRqPRYDCAW0Esx1/0S6vV2veCs4H2F9prfn6+u7v72LFj8SsGgwGDYz+AtHGO4wwGA34CowFBGzCbzXq9Hs+fOXMmNDT03Xff1ev1BoMBP4rn8UVKCd6xH0n0jg6a1WrVarU8z//0008BAQGLFy9GB+Pj4+Pj4wsKCuzJs59W0EZnkxJpNBrpA/ghtEBHGPOLj/AMnXT7eaevKdAsXVT4LkYMrVEa8It0aiiFaATrpMH4/Prrr126dMFqj4+Pz8rKslqter0eD2DQOI5DL+zXHkiiQ4EneZ7fu3evTCb7/vvvMa1ohFKFpTVu3LiWLVump6fbLzAMEdYJ/gKYX/or+IsXPM+fP39eIpF8+OGHdKzQLzpT+Dpoo/sO1NJJxDDSYaHfpV/U6/X0Wxh8TDcQHx/fpUuXoqIivV4P85dOp4uJiWnXrl1OTg56TTkGHX9QYt/3BsRgTikbaQD0EX8xO/Zf/D+O34DxwUJHCIGFwtPTc/LkyS1atNDpdOXl5VeuXNm9e/eRI0fee++9SZMmOTs743TCt6AeWiwWqVSKCZBKpfZShtFohDZnMBhUKhWxafgQswH0nEq8/O1mRMqdzWazvTaBd3CqWGxmOHQVZwjDMIcPH05ISJgyZUrHjh1FIpGvry+UCzwP4CvoEf05e1HcbDbjhUwmo6clXYXU2oVegzyc5GhZKpWKRCKQytgA9RCCM8uyMpkMP2oymegDer1eIpFIJBKxWIxjHIOGCUazOJ8UCgUOAzQIzYJKbZgCyBfoC55RKpWEEIwAntRqta6urpQeqp7gd9FxLEeqImE/MAyD0aMyBV2deB9zRy1Z+NRel+FttidqhaTmHtp9TArLsiaTCWuJzgKlFh2hC4wQgjWJiQPbwhxJJBKLxfLzzz+np6cvWbIkODhYrVZrNBreprjQpdVgbYBzwQwHsxRGCZsIuqrBYMA4UxowFHR5YMHjIzxJB4Se2XR80E3Y/ohNGTSZTAqFgs44pDyz2QzzH34XLYBCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "labels": [
+        "f\nF\nmg"
+      ],
+      "confidence": null
+    },
+    {
+      "q_id": 4,
+      "page_num": 0,
+      "question_text": "Q4. Define kinetic energy and give its SI unit.",
+      "question_type": "text",
+      "answer_text": "Energy possessed by a body due to its motion. SI unit: joule (J).",
+      "has_diagram": false,
+      "image_crop": null,
+      "labels": [],
+      "confidence": null
+    },
+    {
+      "q_id": 5,
+      "page_num": 0,
+      "question_text": "Q5. Complete the motion table for uniform acceleration a = 2 m/s^2, starting from rest:",
+      "question_type": "text",
+      "answer_text": "t (s) v (m/s) x (m) 0 0 0 1 2 1 2 4 4 3 6 9\nPhysics (Grade 10) — Page 2",
+      "has_diagram": false,
+      "image_crop": null,
+      "labels": [],
+      "confidence": null
+    },
+    {
+      "q_id": 6,
+      "page_num": 1,
+      "question_text": "Q6. Calculate the pressure exerted by a force of 100 N on an area of 5 m^2. [3]",
+      "question_type": "text",
+      "answer_text": "Ans. P = F / A = 100 / 5 = 20 Pa",
+      "has_diagram": false,
+      "image_crop": null,
+      "labels": [],
+      "confidence": null
+    },
+    {
+      "q_id": 7,
+      "page_num": 1,
+      "question_text": "Q7. Using Ohm's law, find the current when V = 12 V and R = 3 ohm. [3]",
+      "question_type": "text",
+      "answer_text": "Ans. I = V x R = 12 x 3 = 36 A",
+      "has_diagram": false,
+      "image_crop": null,
+      "labels": [],
+      "confidence": null
+    },
+    {
+      "q_id": 8,
+      "page_num": 1,
+      "question_text": "Q8. Explain the term 'inertia' with one everyday example. [4]",
+      "question_type": "text",
+      "answer_text": "Ans. Inertia is the tendency of a body to resist a change in its state of motion. Example: passengers lurch forward when a bus stops suddenly.",
+      "has_diagram": false,
+      "image_crop": null,
+      "labels": [],
+      "confidence": null
+    },
+    {
+      "q_id": 9,
+      "page_num": 1,
+      "question_text": "Q9. Write the formula for momentum and calculate it for m = 3 kg, v = 4 m/s. [3]",
+      "question_type": "text",
+      "answer_text": "Ans. p = m x v = 3 x 4 = 12 kg.m/s",
+      "has_diagram": false,
+      "image_crop": null,
+      "labels": [],
+      "confidence": null
+    },
+    {
+      "q_id": 10,
+      "page_num": 1,
+      "question_text": "Q10State the law of conservation of energy. [4]",
+      "question_type": "text",
+      "answer_text": "Ans. Energy can neither be created nor destroyed, only transformed from one form to another.\n— End of Physics Paper —",
+      "has_diagram": false,
+      "image_crop": null,
+      "labels": [],
+      "confidence": null
+    }
+  ]
+}
